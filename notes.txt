@@ -1,0 +1,21 @@
+The core of the website is to develop a interactive page which showcases the projects and little bit about them and what was learned through them:
+
+<header
+main
+
+
+HEADER
+HOME
+ABOUT
+PORTFOLIO
+EXPERIENCE
+DENYSLADDEN@OUTLOOK>COM
+
+
+
+footer
+
+
+
+
+
